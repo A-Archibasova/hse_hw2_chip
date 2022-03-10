@@ -50,5 +50,5 @@
 
 <img width="495" alt="Screenshot 2022-03-10 at 19 41 28" src="https://user-images.githubusercontent.com/71605966/157711714-233e5281-77f7-45f5-90c8-6c430017bffc.png"> <img width="495" alt="Screenshot 2022-03-10 at 19 41 52" src="https://user-images.githubusercontent.com/71605966/157711800-ef0deae3-ff32-477a-a573-a115757151d1.png">
 
-Перечесений мало, скорее всегоэто связано с тем, что выравнивание было только на одну хромосому
+Перечесений мало, скорее всего это связано с тем, что выравнивание было только на одну хромосому
 
